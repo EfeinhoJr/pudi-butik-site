@@ -9,8 +9,8 @@ interface CategoryFilterProps {
 
 const categories: { value: ProductCategory | "all"; label: string }[] = [
   { value: "all", label: "Tümü" },
-  { value: "kadın", label: "Kadın Giyim" },
-  { value: "çocuk", label: "Çocuk Giyim" },
+  { value: "Kadın", label: "Kadın Giyim" },
+  { value: "Çocuk", label: "Çocuk Giyim" },
 ];
 
 /**
