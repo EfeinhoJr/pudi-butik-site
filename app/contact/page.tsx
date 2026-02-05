@@ -11,7 +11,6 @@ export default function ContactPage() {
       <HeroSection
         title="İletişim"
         subtitle="Bizimle iletişime geçin"
-        showButton={false}
       />
 
       <section className="mx-auto max-w-2xl px-4 py-16 sm:px-6 lg:px-8">
